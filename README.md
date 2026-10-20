@@ -39,3 +39,13 @@ Aplikasi React + Vite untuk portal informasi publik dan pratinjau ruang kerja in
 - `src/styles.css`: seluruh gaya visual dan responsivitas.
 - `src/main.jsx`: titik masuk React.
 - `index.html`: metadata browser.
+
+
+## Pusat Pembelajaran Kader WPA (fitur awal)
+- Menu publik `Kader WPA` dengan 12 modul belajar awal.
+- Katalog modul dapat dicari dan difilter berdasarkan kelompok materi.
+- Detail modul berisi tujuan belajar, materi inti, latihan praktik, dan kuis pengantar.
+- Progres modul disimpan di `localStorage` pada browser/perangkat yang digunakan.
+- Fitur ini belum menyediakan akun, sertifikasi kompetensi, database bersama, atau sinkronisasi progres antarperangkat.
+- Materi HIV/IMS, alur rujukan, SOP, dan semua informasi klinis perlu ditinjau serta disetujui KPA/Puskesmas sebelum digunakan sebagai materi resmi.
+- Jangan memasukkan nama, status HIV, hasil tes, atau data medis/identitas pribadi ke aplikasi prototipe.
