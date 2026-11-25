@@ -49,3 +49,10 @@ Aplikasi React + Vite untuk portal informasi publik dan pratinjau ruang kerja in
 - Fitur ini belum menyediakan akun, sertifikasi kompetensi, database bersama, atau sinkronisasi progres antarperangkat.
 - Materi HIV/IMS, alur rujukan, SOP, dan semua informasi klinis perlu ditinjau serta disetujui KPA/Puskesmas sebelum digunakan sebagai materi resmi.
 - Jangan memasukkan nama, status HIV, hasil tes, atau data medis/identitas pribadi ke aplikasi prototipe.
+
+
+## Pembaruan materi leaflet KPA Kota Bandung
+
+Materi Edukasi HIV dan direktori layanan diperluas berdasarkan dua leaflet KPA Kota Bandung TA 2026 yang diberikan untuk pengembangan proyek. Daftar fasilitas pengobatan ODHIV ditandai sebagai informasi per Maret 2026. Hotline WhatsApp dan akun media sosial juga ditampilkan pada halaman bantuan.
+
+Catatan editorial: materi tahapan HIV/periode jendela pada leaflet tidak disalin sebagai panduan klinis. Informasi klinis harus ditinjau tenaga kesehatan/KPA sebelum dipublikasikan sebagai materi resmi. Direktori layanan tetap perlu dikonfirmasi ulang terkait alamat, jam, ketersediaan layanan, dan mekanisme rujukan.

@@ -58,3 +58,7 @@
 .kader-next{margin-top:24px}
 @media(max-width:900px){.kader-module-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.kader-hero{grid-template-columns:auto 1fr}.kader-progress{grid-column:1/-1;display:grid;grid-template-columns:auto 1fr;align-items:center}.kader-progress .progress-track{grid-column:1/-1}.kader-home-cta{flex-wrap:wrap}.kader-home-cta .btn-primary{margin-left:74px}}
 @media(max-width:600px){.kader-home-cta{margin:12px 18px 24px;padding:19px;gap:13px}.kader-home-icon{width:44px;height:44px}.kader-home-cta>div:nth-child(2){flex:1;min-width:180px}.kader-home-cta h2{font-size:17px}.kader-home-cta .btn-primary{margin-left:0;width:100%;justify-content:center}.kader-hero{grid-template-columns:1fr;padding:20px;gap:14px}.kader-hero-icon{width:54px;height:54px}.kader-progress{grid-column:auto}.kader-stats{gap:8px}.kader-stats>div{padding:12px;grid-template-columns:1fr;gap:6px}.kader-stats svg{grid-row:auto}.kader-stats b{font-size:20px}.kader-stats span{font-size:11px}.kader-tools{display:flex;flex-direction:column;align-items:stretch}.kader-filter{min-width:0}.kader-module-grid{grid-template-columns:1fr}.kader-module-card{min-height:0}.module-detail-heading{gap:11px}.kader-module-detail{padding:18px}}
+
+
+/* Readable paragraph spacing for leaflet-based education articles */
+.article-detail p { white-space: pre-line; }
